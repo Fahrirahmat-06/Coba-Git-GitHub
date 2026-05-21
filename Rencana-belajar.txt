@@ -3,7 +3,11 @@ Rencana Belajar
 - JS Framework
  * React
  * Angular
+ * Vue
 - Full Stack Web
 - PHP
 - PHP Framework
  * Laravel
+- CSS
+ * Tailwinds
+ * Bootstrap
