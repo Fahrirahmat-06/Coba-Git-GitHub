@@ -1,6 +1,6 @@
 Rencana Belajar
 - Belajar JS
 - JS Framework
-- C++
-- Software Developer
-- Strucktur Data dasar
+ * React
+ * Angular
+- Full Stack Web
