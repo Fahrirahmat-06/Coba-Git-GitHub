@@ -3,3 +3,4 @@ Rencana Belajar
 - JS Framework
 - C++
 - Software Developer
+- Strucktur Data dasar
