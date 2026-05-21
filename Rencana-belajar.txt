@@ -2,3 +2,4 @@ Rencana Belajar
 - Belajar JS
 - JS Framework
 - C++
+- Software Developer
