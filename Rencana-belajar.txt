@@ -2,8 +2,8 @@ Rencana Belajar
 - Belajar JS
 - JS Framework
  * React
- * Vue
-- C++
-- Software Developer
-- Strucktur Data dasar
-- Python
+ * Angular
+- Full Stack Web
+- PHP
+- PHP Framework
+ * Laravel
